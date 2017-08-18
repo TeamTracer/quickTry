@@ -211,7 +211,7 @@
     <Content Include="Views\Dispatch\dispatch-monitoring.html" />
     <Content Include="Views\Dispatch\dispatch-schedule.html" />
     <Content Include="Views\E.P.O.D\epod-management.html" />
-    <None Include="Views\Home\index.cshtml">
+    <None Include="Views\Home\Index.cshtml">
       <BrowseToURL>~/Home/index.cshtml</BrowseToURL>
     </None>
     <None Include="Views\Home\mainPage.cshtml" />
@@ -270,6 +270,11 @@
         </WebProjectProperties>
       </FlavorProperties>
     </VisualStudio>
+    <MonoDevelop>
+      <Properties>
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+      </Properties>
+    </MonoDevelop>
   </ProjectExtensions>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
