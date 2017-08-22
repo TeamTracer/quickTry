@@ -1,11 +1,5 @@
 ﻿<Properties StartupConfiguration="{61417F62-EB47-48F1-B26B-4CC6EEDDA2F6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="quickTry Status">
-    <Files>
-      <File FileName="QuickTrack/Views/Home/mainPage.cshtml" Line="7" Column="118" />
-      <File FileName="QuickTrack/Views/Home/index.cshtml" Line="1" Column="9" />
-      <File FileName="quickTry Status" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
