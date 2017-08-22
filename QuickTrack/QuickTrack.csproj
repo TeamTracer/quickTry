@@ -443,10 +443,12 @@
     <Content Include="Css\font-awesome-4.7.0\scss\_stacked.scss" />
     <Content Include="Css\font-awesome-4.7.0\scss\_variables.scss" />
     <Content Include="Css\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="Images\Logo.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Reports\" />
+    <Folder Include="Images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
